@@ -7,7 +7,7 @@ from scripts import *
 
 def main():
     evalTypes = ['OPE']
-    testname = 'tb50'
+    testname = 'tb100'
     graph = 'overlap'
     if len(sys.argv) >= 2:
         graph = sys.argv[1]
